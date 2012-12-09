@@ -2,7 +2,7 @@
   "name": "cli-presenter",
   "version": "0.0.1",
   "description": "A node-cli presenter based on REPL",
-  "main": "presenter.js",
+  "main": "./lib/presenter.js",
   "dependencies": {
     "cli-color": "~0.2.1"
   },
