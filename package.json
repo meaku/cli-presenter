@@ -1,0 +1,26 @@
+{
+  "name": "cli-presenter",
+  "version": "0.0.1",
+  "description": "A node-cli presenter based on REPL",
+  "main": "presenter.js",
+  "dependencies": {
+    "cli-color": "~0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meaku/cli-presenter"
+  },
+  "keywords": [
+    "repl",
+    "cli",
+    "presenter",
+    "code-demo",
+    "presentation"
+  ],
+  "author": "Michael Jaser <michael.jaser@peerigon.com>",
+  "license": "MIT"
+}
